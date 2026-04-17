@@ -1,0 +1,12 @@
+{
+  "repos": [
+    {
+      "name": "ToonStream",
+      "baseUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main",
+      "author": "Your Name",
+      "lang": "en",
+      "nsfw": false,
+      "class": ".ToonStream"
+    }
+  ]
+}
